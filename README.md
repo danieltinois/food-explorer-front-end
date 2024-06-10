@@ -66,7 +66,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone
+$ git clone https://github.com/danieltinois/food-explorer-front-end.git
 ```
 
 ---
@@ -117,7 +117,7 @@ Exemplo:
 ## 🛠️ Código Api back-end
 
 <p>Você pode acessar a API back-end desse projeto através do link: 
-<a href= "https://github.com/A1exLima/food_explorer_back_end" target="_blank"> Clique aqui ⏯ </a>
+<a href= "" target="_blank"> Clique aqui ⏯ </a>
 </p>
 
 ---
