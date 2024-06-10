@@ -1,10 +1,3 @@
----
-## 👨‍💻 Sobre o projeto front-end
-
-Este repositório contém o código-fonte do projeto front-end desenvolvido como desafio final para o curso da Rocketseat. O projeto FoodExplorer consiste em uma aplicação para um restaurante, onde o cliente terá acesso a um menu com todos os pratos oferecidos, podendo finalizar a compra das opções adicionadas no carrinho. E para complementar temos também o lado do administrador do site, onde o mesmo, tem acesso a todos os pedidos, podendo mudar o estado da compra efetuada pelo cliente e verificar quais os produtos estão em alta, além de outras funcionalidades exclusivas desenvolvida nessa versão.
-O site possui um layout bem interativo, pensado em trazer uma boa experiência ao usuário, tanto na versão desktop quanto na versão mobile o usuário tem acesso a todas as funcionalidades necessárias.
----
-
 ## 👨‍💻 Diferenciais - Página do cliente
 
 ## Consulta automática do Cep via Api externa:
@@ -117,14 +110,8 @@ Exemplo:
 ## 🛠️ Código Api back-end
 
 <p>Você pode acessar a API back-end desse projeto através do link: 
-<a href= "" target="_blank"> Clique aqui ⏯ </a>
+<a href= "https://github.com/danieltinois/food-explorer-back-end" target="_blank"> Clique aqui ⏯ </a>
 </p>
-
----
-
-## 🪪 Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
 
